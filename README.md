@@ -1,1 +1,1 @@
-# Forecasting-multi-population-mortality-models-using-machine-learning-techniques
+This repository is the online appendix to the paper 'Forecasting multi-population mortality models using machine learning techniques'. I am grateful to the Cooperative Doctoral Programme of the Ministry of Culture and Innovation financed by the National Research, Development and Innovation Fund.
